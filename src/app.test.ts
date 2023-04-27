@@ -8,6 +8,7 @@ describe("Test App", () => {
   });
 
   test("Run the app", () => {
+    expect(app.initialized).toBe(true);
     expect(app.run()).toBe("RUN");
   });
 });

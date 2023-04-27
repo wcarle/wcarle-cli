@@ -1,4 +1,4 @@
-# Schooner Dice Coding Test
+# Simple Typescript CLI Script
 
 ## Setup
 
@@ -12,12 +12,10 @@ yarn
 
 ## Run
 
-### Score
-
 Run a command
 
 ```bash
-yarn go
+yarn app run
 ```
 
 ## Tests
@@ -25,5 +23,5 @@ yarn go
 Run tests
 
 ```bash
-npm run test
+yarn test
 ```
