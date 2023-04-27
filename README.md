@@ -7,7 +7,7 @@ Prerequisites: node/npm/yarn
 Install packages and compile with the setup script:
 
 ```bash
-yarn
+yarn setup
 ```
 
 ## Run
