@@ -1,4 +1,4 @@
-# Simple Typescript CLI Script
+# Simple Typescript CLI App
 
 ## Setup
 
